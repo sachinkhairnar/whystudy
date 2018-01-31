@@ -1,7 +1,7 @@
 <?php
-##- This has been added as the first file for git testing
+##- Second files
 
-echo "hello";
+echo "this is for newmedia pareview testing";
 
 
 ?>
