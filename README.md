@@ -1,2 +1,2 @@
 # whystudy
-This is to rnd
+Pareview Study
